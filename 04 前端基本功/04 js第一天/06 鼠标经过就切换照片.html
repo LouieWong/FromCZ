@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>06 鼠标经过切换照片</title>
+    <style>
+        /*img{
+            width: 100%;
+            height: 100%;
+        }*/
+    </style>
+</head>
+<body>
+<img src="../../Resource/img/10.jpg" alt="" id="pic">
+<script>
+    var pic = document.getElementById("pic");
+    pic.onmouseover = function () {
+        pic.src = "../../Resource/img/08.jpg";
+    }
+</script>
+</body>
+</html>
