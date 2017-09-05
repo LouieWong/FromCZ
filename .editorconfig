@@ -1,0 +1,15 @@
+[*]
+charset=utf-8
+end_of_line=crlf
+insert_final_newline=false
+indent_style=space
+indent_size=4
+
+[{*.htm,*.sht,*.html,*.shtm,*.shtml,*.ng}]
+indent_style=space
+indent_size=2
+
+[*.css]
+indent_style=space
+indent_size=2
+

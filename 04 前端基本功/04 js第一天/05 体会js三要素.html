@@ -1,34 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>05 体会js三要素</title>
-    <style>
-        #demo{
-            width: 200px;
-            height: 200px;
-            background-color: #7FFFD4;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>05 体会js三要素</title>
+  <style>
+    #demo {
+      width: 200px;
+      height: 200px;
+      background-color: #7FFFD4;
+    }
+  </style>
 </head>
 <body>
 <div id="demo"></div>
 <button id="btn">改变宽度</button>
 <script>
-    /*寻找元素*/
-    var demo = document.getElementById("demo");
-    var btn = document.getElementById("btn");
-    /*事件三要素*/
+  /*寻找元素*/
+  var demo = document.getElementById("demo");
+  var btn = document.getElementById("btn");
+  /*事件三要素*/
   /*  btn.onclick = function () {
         demo.style.width = "400px";
     }*/
-    btn.addEventListener("click",demo1);
-    function demo1() {
-        console.log("我执行了");
+  btn.addEventListener("click", demo1);
 
-       demo.style.height = "400px";
-        alert('原生dom2级第一次click');
-    }
+  function demo1() {
+    console.log("我执行了");
+
+    demo.style.height = "400px";
+    alert('原生dom2级第一次click');
+  }
 
 </script>
 </body>

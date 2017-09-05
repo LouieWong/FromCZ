@@ -1,40 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>06 显示隐藏</title>
-    <style>
-        div{
-            width: 100px;
-            height: 100px;background-color: #7FFFD4;
-            margin: 50px;
-        }
-        #one{
+  <meta charset="UTF-8">
+  <title>06 显示隐藏</title>
+  <style>
+    div {
+      width: 100px;
+      height: 100px;
+      background-color: #7FFFD4;
+      margin: 50px;
+    }
 
+    #one {
+    }
 
-        }
-        #two{
-
-        }
-    </style>
+    #two {
+      width: 100px;
+      height: 100px;
+    }
+  </style>
 </head>
 <body>
 <div id="one"></div>
 <div id="two"></div>
 <script>
-    document.getElementById("one").addEventListener("click",one);
-    document.getElementById("two").addEventListener("click",two);
-    function one() {
-//        隐藏占位置
-        document.getElementById("one").style.visibility = "hidden";
-        console.log("one");
+  document.getElementById("one").addEventListener("click", one);
+  document.getElementById("two").addEventListener("click", two);
 
-    }
-    function two() {
+  function one() {
+//        隐藏占位置
+    document.getElementById("one").style.visibility = "hidden";
+    console.log("one");
+
+  }
+
+  function two() {
 //        隐藏不占位置
-        document.getElementById("two").style.display = "none";
-        console.log("two");
-    }
+    document.getElementById("two").style.display = "none";
+    console.log("two");
+  }
 </script>
 </body>
 </html>
