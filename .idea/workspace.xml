@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a333c42f-b440-4e28-af8f-7630be3e6697" name="Default" comment="nothing">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
+    <list default="true" id="a333c42f-b440-4e28-af8f-7630be3e6697" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04 前端基本功/01 CSS实战1/京东网页/css/base.css" afterPath="$PROJECT_DIR$/04 前端基本功/01 CSS实战1/京东网页/css/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04 前端基本功/01 CSS实战1/京东网页/html/index.html" afterPath="$PROJECT_DIR$/04 前端基本功/01 CSS实战1/京东网页/html/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04 前端基本功/04 js第一天/02-js控制结构和样式.html" afterPath="$PROJECT_DIR$/04 前端基本功/04 js第一天/02-js控制结构和样式.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04 前端基本功/04 js第一天/03 变量.html" afterPath="$PROJECT_DIR$/04 前端基本功/04 js第一天/03 变量.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04 前端基本功/04 js第一天/05 体会js三要素.html" afterPath="$PROJECT_DIR$/04 前端基本功/04 js第一天/05 体会js三要素.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04 前端基本功/04 js第一天/06 显示隐藏.html" afterPath="$PROJECT_DIR$/04 前端基本功/04 js第一天/06 显示隐藏.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04 前端基本功/04 js第一天/06 鼠标经过就切换照片.html" afterPath="$PROJECT_DIR$/04 前端基本功/04 js第一天/06 鼠标经过就切换照片.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04 前端基本功/04 js第一天/07 入口函数.html" afterPath="$PROJECT_DIR$/04 前端基本功/04 js第一天/07 入口函数.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04 前端基本功/04 js第一天/06 鼠标经过就切换照片.html" afterPath="$PROJECT_DIR$/04 前端基本功/04 js第一天/07 鼠标经过就切换照片.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,6 +16,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fromCZ" />
+  </component>
   <component name="FileColors">
     <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
     <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
@@ -32,8 +27,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="06 鼠标经过就切换照片.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04 前端基本功/04 js第一天/06 鼠标经过就切换照片.html">
+      <file leaf-file-name="07 鼠标经过就切换照片.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04 前端基本功/04 js第一天/07 鼠标经过就切换照片.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
@@ -62,10 +57,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06 显示隐藏.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="06 显示隐藏.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04 前端基本功/04 js第一天/06 显示隐藏.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
+            <state relative-caret-position="1088">
               <caret line="32" column="8" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
@@ -158,7 +153,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -196,8 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,33 +207,19 @@
               <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
               <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
               <item name="04 前端基本功" type="462c0819:PsiDirectoryNode" />
-              <item name="01 CSS实战1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
-              <item name="04 前端基本功" type="462c0819:PsiDirectoryNode" />
-              <item name="01 CSS实战1" type="462c0819:PsiDirectoryNode" />
-              <item name="京东网页" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
-              <item name="04 前端基本功" type="462c0819:PsiDirectoryNode" />
-              <item name="01 CSS实战1" type="462c0819:PsiDirectoryNode" />
-              <item name="京东网页" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
-              <item name="04 前端基本功" type="462c0819:PsiDirectoryNode" />
               <item name="04 js第一天" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
+              <item name="16 NodeJS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,7 +230,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="add_unversioned_files" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learnhtml5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -306,7 +285,9 @@
       <workItem from="1504610309363" duration="101000" />
       <workItem from="1504610436929" duration="313000" />
       <workItem from="1504610783631" duration="103000" />
-      <workItem from="1504610944083" duration="32000" />
+      <workItem from="1504610944083" duration="2424000" />
+      <workItem from="1504700753505" duration="611000" />
+      <workItem from="1504766352326" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="nothing">
       <created>1504522143126</created>
@@ -322,27 +303,35 @@
       <option name="project" value="LOCAL" />
       <updated>1504531742341</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Several plug-ins have been added&#10;Modify the correlation of code formatting&#10;setting">
+      <created>1504611039860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1504611039860</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21387000" />
+    <option name="totallyTimeSpent" value="25088000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2571116" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26746726" sideWeight="0.49598163" order="0" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2571116" sideWeight="0.50401837" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -363,7 +352,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nothing" />
-    <option name="LAST_COMMIT_MESSAGE" value="nothing" />
+    <MESSAGE value="Several plug-ins have been added&#10;Modify the correlation of code formatting&#10;setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Several plug-ins have been added&#10;Modify the correlation of code formatting&#10;setting" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -387,7 +377,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/04 前端基本功/04 js第一天/06 鼠标经过就切换照片.html">
+    <entry file="file://$PROJECT_DIR$/04 前端基本功/04 js第一天/07 鼠标经过就切换照片.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -404,7 +394,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/04 前端基本功/04 js第一天/06 鼠标经过就切换照片.html">
+    <entry file="file://$PROJECT_DIR$/04 前端基本功/04 js第一天/07 鼠标经过就切换照片.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
@@ -604,12 +594,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -619,19 +603,9 @@
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04 前端基本功/04 js第一天/07 入口函数.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04 前端基本功/04 js第一天/06 鼠标经过就切换照片.html">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -670,8 +644,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04 前端基本功/04 js第一天/06 显示隐藏.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
+        <state relative-caret-position="1088">
           <caret line="32" column="8" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 前端基本功/04 js第一天/07 入口函数.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04 前端基本功/04 js第一天/07 鼠标经过就切换照片.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
           <folding />
         </state>
       </provider>
