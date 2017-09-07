@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>03 判断参数匹配</title>
+</head>
+<body>
+<script>
+  function fn(a, b) {
+    console.log(fn.length);
+    console.log(arguments);
+    console.log(arguments.length);
+    if (fn.length == arguments.length) {
+      console.log(a + b);
+    } else {
+      console.error("参数不匹配");
+    }
+  }
+
+  fn(1, 2, 7);
+</script>
+</body>
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>05 鼠标展示</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    ul {
+      list-style: none;
+    }
+
+    #box {
+      height: 70px;
+      width: 360px;
+      padding-top: 360px;
+      border: 1px solid #ccc;
+      margin: 100px auto;
+      overflow: hidden;
+      background: url("images/01big.jpg") no-repeat;
+    }
+
+    #box ul {
+      overflow: hidden;
+      border: 1px solid #cccccc;
+    }
+
+    #box li {
+      float: left;
+    }
+
+  </style>
+  <script>
+    window.onload = function () {
+      var box = document.getElementById("box");
+
+      function fun(id, bg) {
+        var target = document.getElementById(id);
+        target.onmouseover = function () {
+          box.style.backgroundImage = bg;
+          console.log('执行l');
+        }
+      }
+
+      /*   fun("li1","url(images/01big.jpg)");
+         fun("li2","url(images/02big.jpg)");
+         fun("li3","url(images/03big.jpg)");
+         fun("li4","url(images/04big.jpg)");
+         fun("li5","url(images/05big.jpg)");*/
+      for (var i = 0; i < 5; i++) {
+        var id = 'li' + (i + 1);
+        var bg = 'url(images/0' + (i + 1) + 'big.jpg)';
+        fun(id, bg);
+      }
+    }
+  </script>
+</head>
+<body>
+<div id="box">
+  <ul>
+    <li id="li1"><img src="images/01.jpg" alt=""></li>
+    <li id="li2"><img src="images/02.jpg" alt=""></li>
+    <li id="li3"><img src="images/03.jpg" alt=""></li>
+    <li id="li4"><img src="images/04.jpg" alt=""></li>
+    <li id="li5"><img src="images/05.jpg" alt=""></li>
+  </ul>
+</div>
+
+</body>
+</html>

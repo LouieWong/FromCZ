@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>04 函数传参</title>
+  <style>
+    div {
+      width: 100px;
+      height: 100px;
+      background-color: pink;
+      margin: 20px;
+      display: none;
+    }
+  </style>
+  <script>
+    function show(obj) {
+      var target = document.getElementById(obj);
+      target.style.display = 'block';
+
+    }
+  </script>
+
+</head>
+<body>
+<button onclick="show('demo1')">第1个盒子</button>
+<button onclick="show('demo2')">第2个盒子</button>
+<button onclick="show('demo3')">第3个盒子</button>
+<button onclick="show('demo4')">第4个盒子</button>
+<div id="demo1"></div>
+<div id="demo2"></div>
+<div id="demo3"></div>
+<div id="demo4"></div>
+</body>
+</html>
