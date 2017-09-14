@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>10 查询中奖</title>
+</head>
+<body>
+<input type="text" id="user">
+<button id="btn">查询</button>
+<script>
+  function $(id) {
+    return document.getElementById(id);
+  }
+
+  $("btn").addEventListener("click", find);
+
+  function find() {
+    /*    alert($("user").value);*/
+    if ($("user").value == "大黄") {
+      alert("恭喜，您中奖了");
+    } else {
+      alert("查无此人");
+    }
+  }
+</script>
+</body>
+</html>

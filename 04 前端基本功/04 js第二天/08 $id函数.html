@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>08 $id函数</title>
+  <style>
+    div {
+      width: 100px;
+      height: 100px;
+
+    }
+  </style>
+</head>
+<body>
+<div id="demo"></div>
+<div id="test"></div>
+<div id="another"></div>
+<script>
+  /*  var demo = document.getElementsByClassName("demo");
+    var test = document.getElementsByClassName("test");
+    var another = document.getElementById("another");*/
+  function $(id) {
+    return document.getElementById(id);
+  }
+
+  $("demo").style.backgroundColor = "blue";
+
+</script>
+</body>
+</html>
