@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>jQuery解决问题</title>
+  <style>
+    *{
+      margin: 0;
+      padding: 0;
+    }
+    div{
+      height: 200px;
+      background: pink;
+      margin-bottom: 10px;
+      display: none;
+    }
+
+  </style>
+  <script src="../../Resource/外部库/jquery-3.2.1.js"></script>
+</head>
+<body>
+<button id="demo">点击我</button>
+<div>1</div>
+<div>2</div>
+<div>3</div>
+<script>
+  $(document).ready(function () {
+    $("#demo").click(function () {
+     $("div").show(100).html("我是内容")
+    });
+  });
+  $(document).ready(function () {
+    alert("我是第二个onload");
+  });
+//  入口函数简写
+  $(function () {
+    
+  });
+</script>
+</body>
+</html>
