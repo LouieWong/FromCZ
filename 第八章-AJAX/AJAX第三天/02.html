@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <script src="jquery-3.2.1.js"></script>
+</head>
+<body>
+
+<input type="button" value="点击" id="btn">
+<div id="showinfo">
+</div>
+<script>
+  $(function () {
+    $('#btn').click(function () {
+      $.ajax({
+        url: "02data.php",
+        dataType: "html",
+        type: 'get',
+        success: function (data) {
+          $("#showinfo").html(data);
+        }, error: function (e) {
+          console.log(e);
+
+        }
+      });
+    });
+  });
+</script>
+</body>
+</html>

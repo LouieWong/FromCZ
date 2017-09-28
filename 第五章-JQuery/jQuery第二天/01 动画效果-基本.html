@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>01 动画效果</title>
+  <script src="../../Resource/外部库/jquery-3.2.1.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      $("div").css({
+        "display": "none",
+        "height": "200px",
+        "width": "200px",
+        "background": "gold"
+      });
+
+      $("button").eq(0).click(function () {
+        $("div").show();
+      });
+      $("button").eq(1).click(function () {
+        $("div").hide();
+      });
+
+    });
+  </script>
+</head>
+<body>
+<!--TODO：完成本章-->
+<button>显示</button>
+<button>隐藏</button>
+<div></div>
+</body>
+</html>

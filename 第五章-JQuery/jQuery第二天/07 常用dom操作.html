@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <script src="../../Resource/外部库/jquery-3.2.1.min.js"></script>
+  <script>
+    $(function () {
+      $("input:eq(0)").click(function () {
+        $(this).attr("title", "我是动态设置的属性");
+      });
+
+      $("input:eq(1)").click(function () {
+        console.log($("input:eq(0)").attr("title"));
+
+      });
+    });
+  </script>
+</head>
+<body>
+<input type="button" value="设置属性">
+<input type="button" value="获取属性">
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>闭包理解2</title>
+</head>
+<body>
+<script>
+  var name = "The Window";
+  var object = {
+    name: "My Object",
+    getNameFunc: function () {
+//      此处的作用域的this对象保存为变量that中
+      var that = this;
+      return function () {
+        return that.name;
+      };
+    }
+  };
+  alert(object.getNameFunc()());
+</script>
+</body>
+</html>

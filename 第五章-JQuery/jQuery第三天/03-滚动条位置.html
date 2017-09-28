@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <style>
+    div {
+      height: 300px;
+      width: 300px;
+      overflow: scroll;
+      background: pink;
+    }
+
+    div p {
+      height: 2000px;
+      width: 2000px;
+    }
+
+
+  </style>
+  <script src="../../Resource/外部库/jquery-3.2.1.min.js"></script>
+  <script>
+    $(function () {
+      $("#btn").click(function () {
+        console.log($("div").scrollTop());
+        console.log($("div").scrollLeft());
+      });
+    });
+  </script>
+</head>
+<body>
+<button id="btn">获取滚动条位置</button>
+<div><p></p></div>
+</body>
+</html>

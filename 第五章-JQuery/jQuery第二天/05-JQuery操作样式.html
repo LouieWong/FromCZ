@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <style>
+    .divItem {
+      background: blue;
+      color: #000;
+    }
+
+  </style>
+  <script src="../../Resource/外部库/jquery-3.2.1.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      $("li").css("font-size", "18px");
+      $("li").css({
+        "background": "pink",
+        "color": "yellow"
+      });
+      var fontsize = $("li").css("font-size");
+      console.log(fontsize);
+
+      $("li").addClass("divItem");
+
+
+    });
+  </script>
+</head>
+<body>
+<ul>
+  <li>元素很多1</li>
+  <li>元素很多2</li>
+  <li>元素很多3</li>
+  <li>元素很多4</li>
+  <li>元素很多5</li>
+  <li>元素很多6</li>
+  <li>元素很多7</li>
+</ul>
+</body>
+</html>

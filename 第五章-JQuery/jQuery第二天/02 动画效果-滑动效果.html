@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>02 动画效果-滑动效果</title>
+  <script src="../../Resource/外部库/jquery-3.2.1.js"></script>
+  <script>$(document).ready(function () {
+    $("div").css({
+      "float": "left",
+      "display": "none",
+      "height": "200px",
+      "width": "200px",
+      "background": "gold"
+    });
+//      下拉
+    $("button").eq(0).click(function () {
+//      摇摆，先慢后快
+      $(".divItem:first").slideDown(1000, "swing", function () {
+        alert("我加载完了");
+      });
+//      匀速
+      $(".divItem:last").slideDown(1000, "linear");
+    });
+
+//    上拉
+    $("button").eq(1).click(function () {
+      $(".divItem:first").slideUp(1000, "swing", function () {
+      });
+      $(".divItem:last").slideUp(1000, "linear");
+
+    });
+//      切换
+    $("button").eq(2).click(function () {
+      $(".divItem").slideToggle();
+    });
+//    淡入
+    $("button").eq(3).click(function () {
+      $(".divItem").fadeIn();
+    });
+//    淡出
+    $("button").eq(4).click(function () {
+      $(".divItem").fadeOut();
+    });
+//    淡入淡出
+    $("button").eq(5).click(function () {
+      $(".divItem").fadeToggle();
+    });
+//    淡入淡出
+    $("button").eq(6).click(function () {
+      $(".divItem").fadeTo(1000, 0.1);
+    });
+//    自定义动画
+    $("button").eq(7).click(function () {
+      $(".divItem").animate({
+        "width": "50px",
+        "height": "50px",
+//        "background":"green",
+        "opacity": "0.1"
+      }, 2000);
+    });
+  });
+  </script>
+</head>
+<body>
+<!--下拉-->
+<button>下拉</button>
+<!--上拉-->
+<button>上拉</button>
+<!--切换-->
+<button>切换</button>
+<!--淡入-->
+<button>淡入</button>
+<!--淡出-->
+<button>淡出</button>
+<!--淡入淡出-->
+<button>淡入淡出切换</button>
+<!--fadeto-->
+<button>设置不透明度</button>
+<!--自定义动画-->
+<button>自定义动画</button>
+<div class="divItem"></div>
+<div class="divItem"></div>
+</body>
+</html>
