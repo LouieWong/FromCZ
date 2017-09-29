@@ -1,126 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a333c42f-b440-4e28-af8f-7630be3e6697" name="Default" comment="Update to Bootstrap">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/imgs/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/imgs/libg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/06-tab案例/imgs/guojidapai.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/06-tab案例/imgs/guozhuangmingpin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/06-tab案例/imgs/nanshijingpin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/06-tab案例/imgs/qingjieyongpin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/图片导航效果/images/01.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/图片导航效果/images/02.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/图片导航效果/images/03.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/图片导航效果/images/04.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/图片导航效果/images/05.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/图片导航效果/images/06.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/图片导航效果/images/07.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/图片导航效果/images/08.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/图片导航效果/images/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/Respond/respond.matchmedia.addListener.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/Respond/respond.matchmedia.addListener.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/Respond/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/Respond/respond.src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/html5shiv/html5shiv-printshiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/html5shiv/html5shiv-printshiv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/html5shiv/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/html5shiv/html5shiv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/jquery/jquery-3.2.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/jquery/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/viewport/01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/viewport/02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第三天/02-坐标值.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第三天/03-滚动条位置.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第三天/04-固定导航栏.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/01 动画效果-基本.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/02 动画效果-滑动效果.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/03 stop停止动画.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/05-JQuery操作样式.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/06-tab案例/06-tab案例.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/07 常用dom操作.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第二天/图片导航效果/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第八章-AJAX/AJAX第三天/00data.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第八章-AJAX/AJAX第三天/01data.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第八章-AJAX/AJAX第三天/01jqajax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第八章-AJAX/AJAX第三天/02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第八章-AJAX/AJAX第三天/02data.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第八章-AJAX/AJAX第三天/jquery-3.2.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第八章-AJAX/AJAX第三天/jquery-3.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第八章-AJAX/AJAX第二天/闭包理解1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第八章-AJAX/AJAX第二天/闭包理解2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第八章-AJAX/AJAX第二天/闭包理解3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第八章-AJAX/第八章AJAX.MD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第四章-前端基本功/01 CSS实战1/京东网页/css/index.css" />
+    <list default="true" id="a333c42f-b440-4e28-af8f-7630be3e6697" name="Default" comment="Update to Bootstrap Day2 P3">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/font/MiFie-Web-Font.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/font/MiFie-Web-Font.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/font/MiFie-Web-Font.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/img/c_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/img/slide_01_2000x410.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/img/slide_01_640x340.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/img/slide_02_2000x410.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/img/slide_02_640x340.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/img/slide_03_2000x410.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/img/slide_03_640x340.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/img/slide_04_2000x410.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/img/slide_04_640x340.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/font/MiFie-Web-Font.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/mediaquery/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第五章 JQuery/第一天 jQuery/01 回顾js.html" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第一天/01 回顾js.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第五章 JQuery/第一天 jQuery/02 jQuery解决问题.html" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第一天/02 jQuery解决问题.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第五章 JQuery/第一天 jQuery/04 jQuery详细使用.html" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第一天/04 jQuery详细使用.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第五章 JQuery/第一天 jQuery/05 JQuery选择器.html" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第一天/05 JQuery选择器.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第五章 JQuery/第一天 jQuery/06 CSS的详细用法.html" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第一天/06 CSS的详细用法.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第五章 JQuery/第一天 jQuery/08 过滤选择器.html" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第一天/08 过滤选择器.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第五章 JQuery/第一天 jQuery/12 下拉菜单.html" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第一天/12 下拉菜单.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第五章 JQuery/第一天 jQuery/13 mouseover与mouseenter.html" afterPath="$PROJECT_DIR$/第五章-JQuery/jQuery第一天/13 mouseover与mouseenter.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/01 CSS实战1/京东网页/css/base.css" afterPath="$PROJECT_DIR$/第四章-前端基本功/01 CSS实战1/京东网页/css/base.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/01 CSS实战1/京东网页/css/index.css" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/01 CSS实战1/京东网页/favicon.ico" afterPath="$PROJECT_DIR$/第四章-前端基本功/01 CSS实战1/京东网页/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/01 CSS实战1/京东网页/html/index.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/01 CSS实战1/京东网页/html/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/01 CSS实战1/京东网页/images/close.png" afterPath="$PROJECT_DIR$/第四章-前端基本功/01 CSS实战1/京东网页/images/close.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/01 CSS实战1/京东网页/images/dong.gif" afterPath="$PROJECT_DIR$/第四章-前端基本功/01 CSS实战1/京东网页/images/dong.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/01 CSS实战1/京东网页/images/logo.png" afterPath="$PROJECT_DIR$/第四章-前端基本功/01 CSS实战1/京东网页/images/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/01 CSS实战1/京东网页/images/sprite.png" afterPath="$PROJECT_DIR$/第四章-前端基本功/01 CSS实战1/京东网页/images/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/01 CSS实战1/京东网页/images/topbanner.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/01 CSS实战1/京东网页/images/topbanner.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/02-js控制结构和样式.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/02-js控制结构和样式.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/03 变量.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/03 变量.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/05 体会js三要素.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/05 体会js三要素.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/06 显示隐藏.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/06 显示隐藏.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/07 鼠标经过就切换照片.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/07 鼠标经过就切换照片.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/08 百度换肤/08 百度换肤.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/08 百度换肤/08 百度换肤.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/08 百度换肤/images/1.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/08 百度换肤/images/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/08 百度换肤/images/2.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/08 百度换肤/images/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/08 百度换肤/images/3.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/08 百度换肤/images/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/08 百度换肤/images/4.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/08 百度换肤/images/4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/08 百度换肤/images/5.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/08 百度换肤/images/5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/08 百度换肤/images/百度换肤.png" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/08 百度换肤/images/百度换肤.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/09 模态窗/09 模态窗.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/09 模态窗/09 模态窗.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/10 padding.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/10 padding.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/11 行内式js.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/11 行内式js.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/12 小函数.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/12 小函数.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/JS第一天.MD" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/JS第一天.MD" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/images/jd1.png" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/images/jd1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第一天/images/jd2.png" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第一天/images/jd2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第三天/01仿淘宝输入框.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第三天/01仿淘宝输入框.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/01 函数声明.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/01 函数声明.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/02 函数传参.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/02 函数传参.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/03 判断参数匹配.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/03 判断参数匹配.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/04  函数传参.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/04  函数传参.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/05 鼠标展示/05 鼠标展示.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/05 鼠标展示/05 鼠标展示.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/05 鼠标展示/images/01.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/05 鼠标展示/images/01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/05 鼠标展示/images/01big.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/05 鼠标展示/images/01big.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/05 鼠标展示/images/02.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/05 鼠标展示/images/02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/05 鼠标展示/images/02big.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/05 鼠标展示/images/02big.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/05 鼠标展示/images/03.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/05 鼠标展示/images/03.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/05 鼠标展示/images/03big.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/05 鼠标展示/images/03big.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/05 鼠标展示/images/04.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/05 鼠标展示/images/04.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/05 鼠标展示/images/04big.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/05 鼠标展示/images/04big.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/05 鼠标展示/images/05.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/05 鼠标展示/images/05.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/05 鼠标展示/images/05big.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/05 鼠标展示/images/05big.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/05 鼠标展示/images/尺寸参考.png" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/05 鼠标展示/images/尺寸参考.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/08 $id函数.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/08 $id函数.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/09 加函数前置雨后置.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/09 加函数前置雨后置.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/10 查询中奖.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/10 查询中奖.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/11 点击隐藏CSS/demo_css.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/11 点击隐藏CSS/demo_css.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/11 点击隐藏CSS/images/left.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/11 点击隐藏CSS/images/left.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/11 点击隐藏CSS/images/right.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/11 点击隐藏CSS/images/right.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/11 点击隐藏CSS/images/search.jpg" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/11 点击隐藏CSS/images/search.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/12.简单验证表单/demo css部分.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/12.简单验证表单/demo css部分.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/12.简单验证表单/demo js部分.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/12.简单验证表单/demo js部分.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/12.简单验证表单/images/right.png" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/12.简单验证表单/images/right.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/12.简单验证表单/images/wrong.png" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/12.简单验证表单/images/wrong.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/13 两个表单小方法.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/13 两个表单小方法.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/14 for人生循环.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/14 for人生循环.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/15金字塔.html" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/15金字塔.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/第四章 前端基本功/04 js第二天/js第二天.MD" afterPath="$PROJECT_DIR$/第四章-前端基本功/04 js第二天/js第二天.MD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/css/main.css" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/index.html" afterPath="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -144,11 +44,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            <state relative-caret-position="-696">
+              <caret line="101" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="139" selection-end-column="7" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="306" column="24" lean-forward="false" selection-start-line="306" selection-start-column="24" selection-end-line="306" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MiFie-Web-Font.svg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/font/MiFie-Web-Font.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="102" />
               <folding />
             </state>
           </provider>
@@ -160,12 +87,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="MarkDown" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>navbar-def</find>
+      <find>navbar-default</find>
+      <find>8px</find>
+      <find>carousel-example-generic</find>
+      <find>50px</find>
+    </findStrings>
     <dirStrings>
       <dir>D:\WebstormProjects\FromCZ</dir>
     </dirStrings>
@@ -176,9 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04 前端基本功/04 js第二天/02 函数传参.html" />
-        <option value="$PROJECT_DIR$/04 前端基本功/04 js第二天/03 判断参数匹配.html" />
-        <option value="$PROJECT_DIR$/04 前端基本功/04 js第二天/05 鼠标展示/05 鼠标展示.html" />
         <option value="$PROJECT_DIR$/04 前端基本功/04 js第二天/04  函数传参.html" />
         <option value="$PROJECT_DIR$/04 前端基本功/04 js第二天/12.简单验证表单/demo js部分.html" />
         <option value="$PROJECT_DIR$/04 前端基本功/04 js第二天/12.简单验证表单/13 两个表单小方法.html" />
@@ -224,9 +156,12 @@
         <option value="$PROJECT_DIR$/第八章-AJAX/AJAX第三天/02.html" />
         <option value="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/viewport/01.html" />
         <option value="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/viewport/02.html" />
-        <option value="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/css/main.css" />
         <option value="$PROJECT_DIR$/Resource/外部库/jquery-3.2.1.min.js" />
+        <option value="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/mediaquery/index.html" />
+        <option value="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/js/main.js" />
         <option value="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/index.html" />
+        <option value="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/css/main.css" />
+        <option value="$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/font/MiFie-Web-Font.svg" />
       </list>
     </option>
   </component>
@@ -286,24 +221,6 @@
             <path>
               <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
               <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
-              <item name="Resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
-              <item name="Resource" type="462c0819:PsiDirectoryNode" />
-              <item name="外部库" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
-              <item name="Resource" type="462c0819:PsiDirectoryNode" />
-              <item name="外部库" type="462c0819:PsiDirectoryNode" />
-              <item name="jquery-3.2.1.js" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
               <item name="第九章移动Web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -333,17 +250,42 @@
               <item name="第九章移动Web" type="462c0819:PsiDirectoryNode" />
               <item name="Bootstrap第一天" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="font" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
+              <item name="第九章移动Web" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap第一天" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
+              <item name="第九章移动Web" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap第一天" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
               <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
-              <item name="第五章-JQuery" type="462c0819:PsiDirectoryNode" />
+              <item name="第九章移动Web" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap第一天" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fromCZ" type="b2602c69:ProjectViewProjectNode" />
               <item name="fromCZ" type="462c0819:PsiDirectoryNode" />
-              <item name="第四章-前端基本功" type="462c0819:PsiDirectoryNode" />
+              <item name="第九章移动Web" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap第一天" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -364,19 +306,19 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dev\fromCZ\第九章移动Web\Bootstrap第一天\code" />
+      <recent name="D:\Dev\fromCZ\第九章移动Web\Bootstrap第一天\code\font" />
+      <recent name="D:\Dev\fromCZ\第九章移动Web\Bootstrap第一天\viewport" />
+      <recent name="D:\Dev\fromCZ\第九章移动Web\Bootstrap第一天\code\lib\jquery" />
+      <recent name="D:\Dev\fromCZ\第九章移动Web\Bootstrap第一天\code\lib" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Dev\fromCZ\第九章移动Web\Bootstrap第一天\code\lib\html5shiv" />
       <recent name="D:\Dev\fromCZ\第九章移动Web\Bootstrap第一天\code\lib\Respond" />
       <recent name="D:\Dev\fromCZ\第九章移动Web\Bootstrap第一天\code\lib" />
       <recent name="D:\Dev\fromCZ\第九章移动Web\Bootstrap第一天" />
       <recent name="D:\Dev\fromCZ\第八章-AJAX\AJAX第三天" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Dev\fromCZ\第九章移动Web\Bootstrap第一天\viewport" />
-      <recent name="D:\Dev\fromCZ\第九章移动Web\Bootstrap第一天\code\lib\jquery" />
-      <recent name="D:\Dev\fromCZ\第九章移动Web\Bootstrap第一天\code\lib" />
-      <recent name="D:\Dev\fromCZ\第八章-AJAX\AJAX第三天" />
-      <recent name="D:\Dev\fromCZ\第五章-JQuery\jQuery第二天\图片导航效果" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -446,7 +388,8 @@
       <workItem from="1506561318124" duration="3355000" />
       <workItem from="1506574556340" duration="8046000" />
       <workItem from="1506596837844" duration="5695000" />
-      <workItem from="1506605114256" duration="194000" />
+      <workItem from="1506605114256" duration="363000" />
+      <workItem from="1506659873038" duration="24675000" />
     </task>
     <task id="LOCAL-00001" summary="nothing">
       <created>1504522143126</created>
@@ -518,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506339829453</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update to Bootstrap">
+      <created>1506605377301</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1506605377301</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102913000" />
+    <option name="totallyTimeSpent" value="127757000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -535,17 +485,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19803064" sideWeight="0.4730195" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32261768" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272101" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.202407" sideWeight="0.4730195" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18043478" sideWeight="0.52698046" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -555,7 +507,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
@@ -573,7 +524,8 @@
     <MESSAGE value="Update to JS version Carousel figure" />
     <MESSAGE value="Update to jQuery" />
     <MESSAGE value="Update to Bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update to Bootstrap" />
+    <MESSAGE value="Update to Bootstrap Day2 P3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update to Bootstrap Day2 P3" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -583,37 +535,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第四章-前端基本功/04 js第二天/09 加函数前置雨后置.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第四章-前端基本功/04 js第二天/10 查询中奖.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第四章-前端基本功/04 js第二天/15金字塔.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第四章-前端基本功/04 js第二天/js第二天.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第四章-前端基本功/04 js第二天/11 点击隐藏CSS/demo_css.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
@@ -622,17 +543,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="150">
             <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -744,26 +665,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resource/外部库/jquery-3.2.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8772" column="4" lean-forward="false" selection-start-line="8772" selection-start-column="4" selection-end-line="8772" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第五章-JQuery/jQuery第二天/06-tab案例/index.html" />
     <entry file="file://$PROJECT_DIR$/第五章-JQuery/jQuery第二天/07 常用dom操作.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第五章-JQuery/jQuery第二天/图片导航效果/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2100">
-          <caret line="70" column="2" lean-forward="false" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -822,7 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -831,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -839,7 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,7 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,7 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -870,7 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -878,7 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -886,7 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -894,24 +792,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/jquery-2.1.4/src/css/var/rmargin.js" />
-    <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/jquery/jquery-3.2.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/viewport/01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,15 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="4" column="42" lean-forward="false" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -941,10 +820,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/jquery/jquery-3.2.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="794" column="43" lean-forward="false" selection-start-line="794" selection-start-column="43" selection-end-line="794" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五章-JQuery/jQuery第二天/图片导航效果/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="105" column="6" lean-forward="true" selection-start-line="105" selection-start-column="6" selection-end-line="105" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/mediaquery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/外部库/jquery-3.2.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8772" column="4" lean-forward="false" selection-start-line="8772" selection-start-column="4" selection-end-line="8772" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/lib/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="6338" column="18" lean-forward="false" selection-start-line="6338" selection-start-column="18" selection-end-line="6338" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        <state relative-caret-position="-696">
+          <caret line="101" column="12" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="139" selection-end-column="7" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="306" column="24" lean-forward="false" selection-start-line="306" selection-start-column="24" selection-end-line="306" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第九章移动Web/Bootstrap第一天/code/font/MiFie-Web-Font.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="102" />
           <folding />
         </state>
       </provider>

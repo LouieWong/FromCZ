@@ -2,7 +2,324 @@
 * @Title:
 * @Author:
 * @Date:
-* @Description: 我们的自定义样式
+* @Description: 自定义样式
 * @Last Modified by:
 * @Last Modified time:
 */
+/**
+* Bootstrap扩展
+*/
+.btn-xianchan {
+  color: #ffffff;
+  background-color: #E92322;
+  border-color: #DB3B43;
+}
+
+.btn-xianchan:hover,
+.btn-xianchan:focus,
+.btn-xianchan:active,
+.btn-xianchan.active,
+.open .dropdown-toggle.btn-xianchan {
+  color: #ffffff;
+  background-color: #E92322;
+  border-color: #DB3B43;
+}
+
+.btn-xianchan:active,
+.btn-xianchan.active,
+.open .dropdown-toggle.btn-xianchan {
+  background-image: none;
+}
+
+.btn-xianchan.disabled,
+.btn-xianchan[disabled],
+fieldset[disabled] .btn-xianchan,
+.btn-xianchan.disabled:hover,
+.btn-xianchan[disabled]:hover,
+fieldset[disabled] .btn-xianchan:hover,
+.btn-xianchan.disabled:focus,
+.btn-xianchan[disabled]:focus,
+fieldset[disabled] .btn-xianchan:focus,
+.btn-xianchan.disabled:active,
+.btn-xianchan[disabled]:active,
+fieldset[disabled] .btn-xianchan:active,
+.btn-xianchan.disabled.active,
+.btn-xianchan[disabled].active,
+fieldset[disabled] .btn-xianchan.active {
+  background-color: #E92322;
+  border-color: #DB3B43;
+}
+
+.btn-xianchan .badge {
+  color: #E92322;
+  background-color: #ffffff;
+}
+
+.navbar-xianchan {
+  background-color: #fff;
+  border-color: #f5f5f5;
+  margin-bottom: 0;
+}
+
+.navbar-xianchan .navbar-brand {
+  color: #777;
+  height: 80px;
+}
+
+.navbar-xianchan .navbar-brand:hover,
+.navbar-xianchan .navbar-brand:focus {
+  color: #5e5e5e;
+  background-color: transparent;
+}
+
+.navbar-xianchan .navbar-text {
+  color: #777;
+}
+
+.navbar-xianchan .navbar-nav > li > a {
+  color: #777;
+  line-height: 48px;
+  font-size: 14px;
+}
+
+.navbar-xianchan .navbar-nav > li > a:hover,
+.navbar-xianchan .navbar-nav > li > a:focus {
+  color: #333;
+  background-color: transparent;
+  border-bottom: 2px solid #e92322;
+}
+
+.navbar-xianchan .navbar-nav > .active > a,
+.navbar-xianchan .navbar-nav > .active > a:hover,
+.navbar-xianchan .navbar-nav > .active > a:focus {
+  color: #555;
+  background-color: transparent;
+  border-bottom: 2px solid #e92322;
+}
+
+.navbar-xianchan .navbar-nav > .disabled > a,
+.navbar-xianchan .navbar-nav > .disabled > a:hover,
+.navbar-xianchan .navbar-nav > .disabled > a:focus {
+  color: #ccc;
+  background-color: transparent;
+}
+
+.navbar-xianchan .navbar-toggle {
+  border-color: #ddd;
+  margin-top: 23px;
+  margin-bottom: 23px;
+}
+
+.navbar-xianchan .navbar-toggle:hover,
+.navbar-xianchan .navbar-toggle:focus {
+  background-color: #ddd;
+}
+
+.navbar-xianchan .navbar-toggle .icon-bar {
+  background-color: #888;
+}
+
+.navbar-xianchan .navbar-collapse,
+.navbar-xianchan .navbar-form {
+  border-color: #e7e7e7;
+}
+
+.navbar-xianchan .navbar-nav > .open > a,
+.navbar-xianchan .navbar-nav > .open > a:hover,
+.navbar-xianchan .navbar-nav > .open > a:focus {
+  color: #555;
+  background-color: #e7e7e7;
+}
+
+@media (max-width: 767px) {
+  .navbar-xianchan .navbar-nav .open .dropdown-menu > li > a {
+    color: #777;
+  }
+
+  .navbar-xianchan .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-xianchan .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #333;
+    background-color: transparent;
+  }
+
+  .navbar-xianchan .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-xianchan .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-xianchan .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #555;
+    background-color: #e7e7e7;
+  }
+
+  .navbar-xianchan .navbar-nav .open .dropdown-menu > .disabled > a,
+  .navbar-xianchan .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+  .navbar-xianchan .navbar-nav .open .dropdown-menu > .disabled > a:focus {
+    color: #ccc;
+    background-color: transparent;
+  }
+}
+
+.navbar-xianchan .navbar-link {
+  color: #777;
+}
+
+.navbar-xianchan .navbar-link:hover {
+  color: #333;
+}
+
+.navbar-xianchan .btn-link {
+  color: #777;
+}
+
+.navbar-xianchan .btn-link:hover,
+.navbar-xianchan .btn-link:focus {
+  color: #333;
+}
+
+.navbar-xianchan .btn-link[disabled]:hover,
+fieldset[disabled] .navbar-xianchan .btn-link:hover,
+.navbar-xianchan .btn-link[disabled]:focus,
+fieldset[disabled] .navbar-xianchan .btn-link:focus {
+  color: #ccc;
+}
+
+/**
+* 公共样式
+*/
+body {
+  font-family: "Helvetica Neue", Helvetica, Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif;
+}
+
+@font-face {
+  font-family: 'demoFont';
+  src: url('../font/MiFie-Web-Font.eot') format('embedded-opentype'), url('../font/MiFie-Web-Font.svg') format('svg'),
+  url('../font/MiFie-Web-Font.ttf') format('truetype'), url('../font/MiFie-Web-Font.woff') format('woff');
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: demoFont;
+  font-style: normal;
+}
+
+.icon-mobilephone::before {
+  content: '\e908';
+  font-size: 13px;
+}
+
+.icon-telphone::before {
+  content: '\e909';
+  font-size: 15px;
+}
+
+.icon-logo::before {
+  content: "\e93e";
+}
+
+.icon-icon::before {
+  content: "\e920";
+}
+
+/**
+* 头部区域
+ */
+#header {
+
+  /*  background: #f0f0f0;*/
+}
+
+#header > .topBar {
+  height: 40px;
+  border-bottom: 1px solid #c0c0c0;
+  line-height: 40px;
+}
+
+#header > .topBar > .container > .row > div {
+  height: 40px;
+  font-size: 12px;
+  color: #888888;
+}
+
+#header > .topBar > .container > .row > div + div {
+  border-left: 1px solid #c0c0c0;
+}
+
+#header a {
+  /*font-size: 12px;*/
+  color: #888;
+}
+
+#header .btn-xianchan {
+  color: #fff;
+}
+
+#header a:hover {
+  text-decoration: none;
+}
+
+#header btn-register {
+  color: whitesmoke;
+}
+
+#header .mobile-link > img {
+  display: none;
+  position: absolute;
+  left: 50%;
+  margin-left: -60px;
+  top: 30px;
+  z-index: 1001;
+}
+
+#header .mobile-link:hover > img {
+  display: block;
+}
+
+#header .icon-icon {
+  font-size: 45px;
+  color: red;
+  line-height: 50px;
+  vertical-align: middle;
+}
+
+#header .icon-logo {
+  font-size: 32px;
+  color: #555;
+  line-height: 50px;
+  vertical-align: middle;
+}
+
+/*#header > .topBar > .container > .row > div {
+  background: #ff4400;
+  height: 40px;
+}
+
+#header > .topBar > .container > .row > div:nth-of-type(2n) {
+  background: #f00;
+  height: 40px;
+}*/
+/**
+* 通栏广告轮播
+ */
+#main_ad {
+
+}
+
+#main_ad > .carousel-inner > .item {
+  height: 410px;
+  background: no-repeat center center;
+  background-size: cover;
+}
+
+/**
+*
+ */
+/**
+*
+ */
+/**
+*
+ */
+/**
+* 脚注区域
+ */
+#footer {
+  height: 200px;
+  background: #f0f0f0;
+}
